@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="name" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.712px" height="50px" viewBox="358 276 85.712 50" enable-background="new 358 276 85.712 50" xml:space="preserve">
+<g id="tw">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="358" y="276" width="85.712" height="50"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="358" y="276" clip-path="url(#SVGID_2_)" fill="#D22031" width="85.712" height="50"/>
+		<rect x="358" y="276" clip-path="url(#SVGID_2_)" fill="#272B65" width="37.5" height="24.999"/>
+		<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M379.249,288.501l-2.5,9.372l-2.5-9.372l2.5-9.376 M376.749,290.998
+			l9.375-2.497l-9.375-2.5l-9.375,2.5"/>
+		<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M378.915,289.748l-6.854,6.87l2.523-9.367l6.854-6.87 M375.499,290.666
+			l9.369,2.52l-6.869-6.853l-9.369-2.52"/>
+		<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M377.999,290.666l-9.369,2.52l6.869-6.853l9.369-2.52 M374.584,289.748
+			l6.854,6.87l-2.523-9.367l-6.854-6.87"/>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<rect id="SVGID_3_" x="358" y="276" width="85.712" height="50"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_4_)" fill="#272B65" d="M376.749,283.186c2.934,0,5.312,2.381,5.312,5.315
+				c0,2.932-2.379,5.312-5.312,5.312s-5.312-2.381-5.312-5.312C371.436,285.566,373.815,283.186,376.749,283.186"/>
+			<path clip-path="url(#SVGID_4_)" fill="#FFFFFF" d="M376.749,283.813c2.59,0,4.689,2.099,4.689,4.688
+				c0,2.588-2.1,4.685-4.689,4.685c-2.588,0-4.688-2.097-4.688-4.685C372.061,285.912,374.161,283.813,376.749,283.813"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="name" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="85.712px" height="50px" viewBox="358 276 85.712 50" enable-background="new 358 276 85.712 50" xml:space="preserve">
+<g id="tk_1_">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="358" y="276" width="85.712" height="50"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="358" y="276" clip-path="url(#SVGID_2_)" fill="#231E60" width="85.712" height="50"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="368.16,280.62 369.914,280.62 370.456,278.952 370.997,280.62 
+			372.75,280.62 371.333,281.651 371.875,283.319 370.456,282.288 369.037,283.319 369.579,281.651 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="361.147,287.678 362.901,287.678 363.442,286.01 363.983,287.678 
+			365.738,287.678 364.319,288.709 364.862,290.373 363.442,289.342 362.023,290.373 362.565,288.709 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="374.426,285.927 375.986,285.927 376.468,284.444 376.95,285.927 
+			378.511,285.927 377.249,286.845 377.731,288.328 376.468,287.41 375.206,288.328 375.688,286.845 		"/>
+		<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="367.909,298.752 369.855,298.752 370.457,296.896 371.057,298.752 
+			373.006,298.752 371.43,299.896 372.032,301.755 370.457,300.609 368.881,301.755 369.483,299.896 		"/>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<rect id="SVGID_3_" x="358" y="276" width="85.712" height="50"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			<path clip-path="url(#SVGID_4_)" fill-rule="evenodd" clip-rule="evenodd" fill="#F5CB2B" d="M358,326
+				c27.513-16.009,39.032-35.848,68.65-50c-8.039,11.867-6.381,38.725,17.062,49.844L358,326z"/>
+			<rect x="358" y="321" clip-path="url(#SVGID_4_)" fill="#231E60" width="85.712" height="2.5"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+.world-flag { background: no-repeat right top; }
+
+.flag-au,
+.flag-cc,
+.flag-hm,
+.flag-au-aat { background-image: url(../flags/au.svg); }
+.flag-nz { background-image: url(../flags/nz.svg); }
+
+.flag-cx { background-image: url(../flags/cx.svg); }
+.flag-nf { background-image: url(../flags/nf.svg); }
+
+.flag-au-ab { background-image: url(../flags/au-ab.svg); }
+.flag-au-tsi { background-image: url(../flags/au-tsi.svg); }
+.flag-au-act { background-image: url(../flags/au-act.svg); }
+.flag-au-nsw { background-image: url(../flags/au-nsw.svg); }
+.flag-au-nt { background-image: url(../flags/au-nt.svg); }
+.flag-au-qld { background-image: url(../flags/au-qld.svg); }
+.flag-au-sa { background-image: url(../flags/au-sa.svg); }
+.flag-au-tas { background-image: url(../flags/au-tas.svg); }
+.flag-au-vic { background-image: url(../flags/au-vic.svg); }
+.flag-au-wa { background-image: url(../flags/au-wa.svg); }
+.flag-au-eu { background-image: url(../flags/au-eu.svg); }
