@@ -1,0 +1,27 @@
+{
+    "name": "p2made/world-flags",
+    "description": "A bunch of CSS & JS resources wrapped as Yii 2 AssetBundles &/or Widgets.",
+    "type": "css library",
+    "keywords": [
+        "flags", "world-flags", "css"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Plowman",
+            "email": "p2opensource@gmail.com",
+            "homepage": "https://github.com/p2made"
+        }
+    ],
+
+    "version": "0.1.0",
+    "minimum-stability": "dev",
+
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "p2made\\world-flags\\": ""
+        }
+    }
+}
