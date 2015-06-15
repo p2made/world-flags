@@ -1,7 +1,7 @@
 {
     "name": "p2made/world-flags",
     "description": "A bunch of CSS & JS resources wrapped as Yii 2 AssetBundles &/or Widgets.",
-    "type": "css library",
+    "type": "css-library",
     "keywords": [
         "flags", "world-flags", "css"
     ],
