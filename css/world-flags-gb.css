@@ -1,0 +1,10 @@
+.world-flag { background: no-repeat right top; }
+
+.flag-gb,
+.flag-uk { background-image: url(../flags/gb.svg); }
+
+.flag-gb-bat { background-image: url(../flags/gb/bat.svg); }
+.flag-gb-eng { background-image: url(../flags/gb/eng.svg); }
+.flag-gb-sct { background-image: url(../flags/gb/sct.svg); }
+.flag-gb-sea { background-image: url(../flags/gb/sea.svg); }
+.flag-gb-wls { background-image: url(../flags/gb/wls.svg); }
