@@ -1,4 +1,4 @@
-World Flags CSS v0.1.0
+World Flags CSS v0.1.1
 ======================
 
 CSS and SVG images to render world flags in your [Bootstrap](http://getbootstrap.com/) elements.
